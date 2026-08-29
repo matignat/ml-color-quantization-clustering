@@ -31,7 +31,7 @@ Contains one row for each unique RGB color observed in the dataset. Stores occur
 
 ---
 
-## Clustering Analysis (Task 3)
+## Clustering Analysis
 
 The project compares **KMeans** and **KMedoids** algorithms for clustering image pixels to reduce the color palette. 
 
